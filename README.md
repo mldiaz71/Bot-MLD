@@ -26,5 +26,5 @@ async def on_message(message):
     # Permite que otros comandos funcionen
     await bot.process_commands(message)
 
-# Reemplaza con tu token del portal de desarrolladores de Discord
+#token del portal de desarrolladores de Discord
 bot.run("MTQ5MTgxMDcwMDk0NTkyMDA1MA.Ghqwb0.-odUlqnhBPFNZAnlT7iXDmosDRohKSpFZ3p2aA")
