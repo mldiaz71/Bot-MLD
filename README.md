@@ -27,4 +27,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 #token del portal de desarrolladores de Discord
-bot.run("MTQ5MTgxMDcwMDk0NTkyMDA1MA.Ghqwb0.-odUlqnhBPFNZAnlT7iXDmosDRohKSpFZ3p2aA")
+bot.run(token-bot)
